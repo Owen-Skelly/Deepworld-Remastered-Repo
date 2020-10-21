@@ -1,0 +1,58 @@
+{
+  "resources": [
+    {"id":{"name":"obj_dirt_1","path":"objects/obj_dirt_1/obj_dirt_1.yy",},"order":2,},
+    {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"order":0,},
+    {"id":{"name":"spr_iron_ore","path":"sprites/spr_iron_ore/spr_iron_ore.yy",},"order":0,},
+    {"id":{"name":"blocks","path":"objects/blocks/blocks.yy",},"order":1,},
+    {"id":{"name":"spr_dirt_1","path":"sprites/spr_dirt_1/spr_dirt_1.yy",},"order":1,},
+    {"id":{"name":"obj_iron_ore","path":"objects/obj_iron_ore/obj_iron_ore.yy",},"order":0,},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"spr_solid","path":"sprites/spr_solid/spr_solid.yy",},"order":0,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "tutorialPath": "",
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrder": [
+    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Tile Sets.yy","order":2,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Fonts.yy","order":7,"resourceVersion":"1.0","name":"Fonts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects.yy","order":9,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms.yy","order":10,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Placeholder.yy","order":1,"resourceVersion":"1.0","name":"Placeholder","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/World.yy","order":2,"resourceVersion":"1.0","name":"World","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Items & Player.yy","order":3,"resourceVersion":"1.0","name":"Items & Player","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Placeholder.yy","order":2,"resourceVersion":"1.0","name":"Placeholder","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Items & Player.yy","order":3,"resourceVersion":"1.0","name":"Items & Player","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/World.yy","order":4,"resourceVersion":"1.0","name":"World","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2.3.0.529",
+  },
+  "resourceVersion": "1.3",
+  "name": "Deepworld Remastered",
+  "tags": [],
+  "resourceType": "GMProject",
+}
